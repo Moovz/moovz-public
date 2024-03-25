@@ -2,12 +2,13 @@
 <rss version="2.0"
     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Moovz AndroidTV - Appcast</title><item>
-    <title>Versão 2.1.0</title>
-    <description>Novas funcionalidade de gerenciamento de check-in. Agora é possível remover check-ins e trocar de pulseira.</description>
-    <pubDate>Mon, 25 Mar 2024 16:00:00 +0000</pubDate>
-    <enclosure url="https://play.google.com/store/apps/details?id=br.com.sistemapacto.trainingzone" sparkle:version="2.1.0" sparkle:os="android" />
-</item>
+        <title>Moovz AndroidTV - Appcast</title>
+        <item>
+            <title>Versão 2.1.0</title>
+            <description>Agora é possível visualizar o nível de bateria e a força de sinal das pulseiras durante a aula.</description>
+            <pubDate>Mon, 25 Mar 2024 16:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=br.com.sistemapacto.trainingzone" sparkle:version="2.1.0" sparkle:os="android" />
+        </item>
         <item>
             <title>Versão 2.0.16</title>
             <description>Correção do bug de contagem de calorias</description>

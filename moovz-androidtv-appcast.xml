@@ -4,6 +4,12 @@
     <channel>
         <title>Moovz AndroidTV - Appcast</title>
         <item>
+            <title>Versão 2.1.1</title>
+            <description>Correção de erros da contagem de calorias e perda de sinal</description>
+            <pubDate>Wed, 27 Mar 2024 7:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=br.com.sistemapacto.trainingzone" sparkle:version="2.1.1" sparkle:os="android" />
+        </item>
+        <item>
             <title>Versão 2.1.0</title>
             <description>Agora é possível visualizar o nível de bateria e a força de sinal das pulseiras durante a aula.</description>
             <pubDate>Mon, 25 Mar 2024 16:00:00 +0000</pubDate>

@@ -4,6 +4,12 @@
     <channel>
         <title>Moovz AndroidTV - Appcast</title>
         <item>
+            <title>Versão 2.1.2</title>
+            <description>Correção da perda de sinal</description>
+            <pubDate>Fri, 6 Apr 2024 13:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=br.com.sistemapacto.trainingzone" sparkle:version="2.1.2" sparkle:os="android" />
+        </item>
+        <item>
             <title>Versão 2.1.1</title>
             <description>Correção de erros da contagem de calorias e perda de sinal</description>
             <pubDate>Wed, 27 Mar 2024 7:00:00 +0000</pubDate>

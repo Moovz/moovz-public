@@ -4,6 +4,18 @@
     <channel>
         <title>Moovz Android - Appcast</title>
         <item>
+            <title>Versão 2.2.0</title>
+            <description>Histórico de aulas para o aluno</description>
+            <pubDate>Mon, 29 Apr 2024 10:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=br.com.sistemapacto.trainingzone" sparkle:version="2.2.0" sparkle:os="android" />
+        </item>
+        <item>
+            <title>Versão 2.1.0</title>
+            <description>Novas funcionalidade de gerenciamento de check-in. Agora é possível remover check-ins e trocar de pulseira.</description>
+            <pubDate>Mon, 25 Mar 2024 16:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=br.com.sistemapacto.trainingzone" sparkle:version="2.1.0" sparkle:os="android" />
+        </item>
+        <item>
             <title>Versão 2.0.14</title>
             <description>Correções no checkin, atualização de dados do usuário e criação de grade.</description>
             <pubDate>Mon, 23 Feb 2024 11:00:00 +0000</pubDate>
